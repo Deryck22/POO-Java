@@ -148,4 +148,4 @@ Se possível:<br>
 
 ------------
 
-Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
+Disponibilizado pela Prof: [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
