@@ -1,4 +1,4 @@
-# 🚀 Aprendendo na Prática Programação Orientada a Objetos (POO)
+# 🚀 Aprendendo na Prática a Programação Orientada a Objetos (POO)
 
 Este projeto foi desenvolvido com o objetivo de aplicar e reforçar os principais conceitos da **Programação Orientada a Objetos (POO)** em Java, através da construção de um sistema que simula a dinâmica de um **Bootcamp**, com **cursos**, **mentorias** e **desenvolvedores** participantes.
 
