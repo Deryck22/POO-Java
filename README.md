@@ -1,6 +1,6 @@
-# 🚀 Desafio: Aprenda na Prática Programação Orientada a Objetos (POO)
+# 🚀 Aprendendo na Prática Programação Orientada a Objetos (POO)
 
-Este projeto foi desenvolvido por **Deryck Silva** com o objetivo de aplicar e reforçar os principais conceitos da **Programação Orientada a Objetos (POO)** em Java, através da construção de um sistema que simula a dinâmica de um **Bootcamp**, com **cursos**, **mentorias** e **desenvolvedores** participantes.
+Este projeto foi desenvolvido com o objetivo de aplicar e reforçar os principais conceitos da **Programação Orientada a Objetos (POO)** em Java, através da construção de um sistema que simula a dinâmica de um **Bootcamp**, com **cursos**, **mentorias** e **desenvolvedores** participantes.
 
 O desafio foi inspirado em uma atividade prática co-criada com a plataforma [**Digital Innovation One (DIO)**](https://web.digitalinnovation.one/) 💛🧡, e está disponível gratuitamente para toda a comunidade de desenvolvedores Java.
 
@@ -51,13 +51,6 @@ Controla o progresso do aluno, conteúdos inscritos e concluídos, além do cál
 - 🔧 **Git & GitHub** para controle de versão
 
 ---
-
-## 🏁 Como Executar o Projeto
-
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-
 
 ## 🧠 Conceitos Aplicados
 
